@@ -1,3 +1,4 @@
+  ![YOLO Output 1](/Sample.png)
   Weather-Robust Vehicle Detection on BDD100K (YOLOv11)
   This project trains and evaluates a YOLOv11n-based vehicle detector (car, truck, bus) on a 10% subset of the BDD100K dataset, with a clear-weather baseline and mixed-weather testing using test-time augmentation (TTA).
 
