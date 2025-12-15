@@ -169,3 +169,6 @@ print(f"TTA mAP50-95:      {tta.box.map:.3f}")
   Clear-weather training and mixed-weather testing show no performance drop (0.458 → 0.466 mAP50), indicating strong weather robustness.
 
   TTA further boosts mixed-weather performance to 0.499 mAP50 without retraining, improving small-object and adverse-condition robustness.
+
+7. Training Results:
+     ![YOLO Output 2](/output.png)
